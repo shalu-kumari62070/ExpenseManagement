@@ -23,7 +23,6 @@ header {
   margin: auto;
   padding: 20px 0;
   overflow: hidden;
-  background-color: red;
   display: flex;
   justify-content: space-evenly;
   /* gap: 5%; */
